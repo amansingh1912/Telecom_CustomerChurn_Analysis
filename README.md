@@ -187,6 +187,7 @@ They are mainly on the parameters:
 For retaining them, customers could be invited to give some sort of feedbacks for the parameters where the churn is high and discuss it.
 Based on these feedbacks, telecom company should take necessary actions.
 
+##### About 23% of overall revenue could be retained if these high-value customers "stayed" 
 
 
 
