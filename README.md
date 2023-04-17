@@ -5,6 +5,8 @@ I did an analysis of Telecom Customer Churn Analysis through Python Libraries (P
 ![image](https://user-images.githubusercontent.com/72240938/232255659-1e8fea4e-22fd-4a5c-96d1-61424a893520.png)
 
 
+#### [Link to Dataset](https://drive.google.com/file/d/1L_0EhArWRIvEg8oZ7jfWgP-mu8MciJhk/view?usp=share_link)
+
 ### Tool Used: PyCharm
 
 ### Major questions with respect to the dataset are as follows:
