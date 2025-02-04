@@ -1,4 +1,4 @@
-# Telecom Customer Churn Analysis Using SQL
+# Telecom Customer Churn Analysis Using Python
 
 I did an analysis of Telecom Customer Churn Analysis through Python Libraries (Pandas, Seaborn).
 
