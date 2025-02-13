@@ -177,7 +177,7 @@ Ans:
 
 ### Key insights and questions answered are as follows:
 
-* Key drivers of customer churn are based on the Contract, Age Range, Internet Type, device quality, and attitude of the support person mainly.
+* Key drivers of customer churn are based on the Contract, Internet Type, device quality, and attitude of the support person mainly.
 
 * Customer Profile Churn for categories that stayed, churned, and joined overall are different from each other mainly, but some of them are the same
 
