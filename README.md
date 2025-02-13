@@ -77,7 +77,7 @@ Additional count of Churn Reason:
 ## Questions Answered*********************************************************
 
 #### ➡️ (i) Ans:
-Key drivers of customer churn are based on the Contract, Age Range, Internet Type, device quality, and attitude of support person.
+Key metrics of customer churn  are based on the Contract, Age Range, Internet Type, device quality, and attitude of support person.
 ### ➡️ (ii) Ans:
 From Table 1, we can get an idea of customer profile churn for categories that stayed, churned, and joined overall they are different from each other mainly, but some of them are the same.
 
