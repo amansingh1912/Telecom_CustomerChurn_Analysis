@@ -183,9 +183,7 @@ Ans:
 
 * Interestingly, above 50 aged customers are the High-value customers and also the customers who are the most churned ones.
   
-For retaining them, customers could be invited to give some sort of feedbacks for the parameters where the churn is high and compared to competitors Contract
-pricing could be altered.
-Based on these feedbacks, telecom company should take necessary actions.
+For retaining them, some sort of strategic discounting should be made on "month-on-month level" contract specially and optimize the pricing. 
 
 ##### About 23% of overall revenue could be retained if these high-value customers "stayed" 
 
