@@ -181,12 +181,10 @@ Ans:
 
 * Customer Profile Churn for categories that stayed, churned, and joined overall are different from each other mainly, but some of them are the same
 
-* Yes, the Company is losing high-value customers based on the insights.
-They are mainly on the parameters: 
-•  Age Range
-• Internet Type  
-
-For retaining them, customers could be invited to give some sort of feedbacks for the parameters where the churn is high and discuss it.
+* Interestingly, above 50 aged customers are the High-value customers and also the customers who are the most churned ones.
+  
+For retaining them, customers could be invited to give some sort of feedbacks for the parameters where the churn is high and compared to competitors Contract
+pricing could be altered.
 Based on these feedbacks, telecom company should take necessary actions.
 
 ##### About 23% of overall revenue could be retained if these high-value customers "stayed" 
